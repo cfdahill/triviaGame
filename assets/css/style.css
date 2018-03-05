@@ -1,0 +1,45 @@
+body{
+    background-image: url(../images/background2.jpg);
+    background-size: cover;
+}
+
+button{
+    background: rgb(207, 58, 36);
+    color: #494461;
+    font-size: 36px;
+    cursor: pointer;
+}
+
+div{
+    margin: auto;
+    color: #494461;
+    font-size: 36px;
+    text-align: center;
+}
+
+#center{
+    margin-top: 180px;
+    align-content: center;
+}
+
+header{
+    font-size: 80px;
+    font-weight: 600;
+    color: #81fefe;
+}
+
+#question{
+    font-weight: 600;
+}
+.ansButton{
+    padding: 10px;
+    width: 400px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 550px;
+    cursor: pointer;
+}
+
+#timer{
+    margin-top:10px;
+}
